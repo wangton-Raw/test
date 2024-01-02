@@ -12,3 +12,8 @@ if __name__ == '__main__':
     main()
 
 # LAGER EN ENDRING, TESTsdsds
+    
+#fdsfdsfsd
+#fsddfsfdsfdsfdsdfsfds
+#dsadfasd
+#dsaffsdasd
