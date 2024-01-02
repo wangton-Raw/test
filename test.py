@@ -4,7 +4,7 @@ def greeting(name):
 
 
 def main():
-    test_string = greeting()
+    test_string = greeting("basj")
     print(test_string)
 
 
